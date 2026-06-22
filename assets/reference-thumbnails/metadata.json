@@ -8,8 +8,7 @@
     "sourceImage": "",
     "localFile": "",
     "figureLabel": "",
-    "status": "unavailable",
-    "note": "No public figure thumbnail source was found during automated DOI/PMC lookup."
+    "status": "unavailable"
   },
   {
     "index": 2,
@@ -20,8 +19,7 @@
     "sourceImage": "",
     "localFile": "",
     "figureLabel": "",
-    "status": "unavailable",
-    "note": "No public figure thumbnail source was found during automated DOI/PMC lookup."
+    "status": "unavailable"
   },
   {
     "index": 3,
@@ -32,8 +30,7 @@
     "sourceImage": "",
     "localFile": "",
     "figureLabel": "",
-    "status": "unavailable",
-    "note": "No public figure thumbnail source was found during automated DOI/PMC lookup."
+    "status": "unavailable"
   },
   {
     "index": 4,
@@ -43,9 +40,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3159040/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d1fe/3159040/52fd51d688a9/nihms306328f1.jpg",
     "localFile": "assets/reference-thumbnails/ref-04.jpg",
-    "figureLabel": "Fig. 1",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 99049
   },
@@ -57,9 +53,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3797383/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0b3e/3797383/1bfcbde7e47d/zns9991346670001.jpg",
     "localFile": "assets/reference-thumbnails/ref-05.jpg",
-    "figureLabel": "Figure 1.",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 41455
   },
@@ -73,7 +68,6 @@
     "localFile": "assets/reference-thumbnails/ref-06.jpg",
     "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 45391
   },
@@ -86,8 +80,7 @@
     "sourceImage": "",
     "localFile": "",
     "figureLabel": "",
-    "status": "unavailable",
-    "note": "No public figure thumbnail source was found during automated DOI/PMC lookup."
+    "status": "unavailable"
   },
   {
     "index": 8,
@@ -97,9 +90,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4300322/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/95ec/4300322/a11cb1df1d77/zns9991566800001.jpg",
     "localFile": "assets/reference-thumbnails/ref-08.jpg",
-    "figureLabel": "Figure 1.",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 82560
   },
@@ -111,9 +103,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4589494/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7e76/4589494/03bfaedacff3/nihms711899u1.jpg",
     "localFile": "assets/reference-thumbnails/ref-09.jpg",
-    "figureLabel": "graphic file with name nihms711899u1.jpg",
+    "figureLabel": "Figure",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 22726
   },
@@ -127,7 +118,6 @@
     "localFile": "assets/reference-thumbnails/ref-10.jpg",
     "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Open-access figure source found through PubMed Central.",
     "contentType": "image/jpeg",
     "bytes": 152267
   },
@@ -140,8 +130,7 @@
     "sourceImage": "",
     "localFile": "",
     "figureLabel": "",
-    "status": "unavailable",
-    "note": "No public figure thumbnail source was found during automated DOI/PMC lookup."
+    "status": "unavailable"
   },
   {
     "index": 12,
@@ -152,8 +141,7 @@
     "sourceImage": "",
     "localFile": "",
     "figureLabel": "",
-    "status": "unavailable",
-    "note": "No public figure thumbnail source was found during automated DOI/PMC lookup."
+    "status": "unavailable"
   },
   {
     "index": 13,
@@ -165,7 +153,6 @@
     "localFile": "assets/reference-thumbnails/ref-13.jpg",
     "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 234754
   },
@@ -179,7 +166,6 @@
     "localFile": "assets/reference-thumbnails/ref-14.jpg",
     "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 98717
   },
@@ -193,7 +179,6 @@
     "localFile": "assets/reference-thumbnails/ref-15.jpg",
     "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 131097
   },
@@ -205,9 +190,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5841465/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1611/5841465/6e76f0efe631/nihms939537u1.jpg",
     "localFile": "assets/reference-thumbnails/ref-16.jpg",
-    "figureLabel": "graphic file with name nihms939537u1.jpg",
+    "figureLabel": "Figure",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 47562
   },
@@ -219,9 +203,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6217390/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0fcf/6217390/15d1ceba7896/pnas.1811974115fig01.jpg",
     "localFile": "assets/reference-thumbnails/ref-17.jpg",
-    "figureLabel": "Fig. 1.",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Open-access figure source found through PubMed Central.",
     "contentType": "image/jpeg",
     "bytes": 63309
   },
@@ -233,9 +216,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5856608/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9a0/5856608/56ff57a22caf/nihms928414u1.jpg",
     "localFile": "assets/reference-thumbnails/ref-18.jpg",
-    "figureLabel": "graphic file with name nihms928414u1.jpg",
+    "figureLabel": "Figure",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 36873
   },
@@ -247,9 +229,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5587354/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f418/5587354/7062c538d958/nihms861535f1.jpg",
     "localFile": "assets/reference-thumbnails/ref-19.jpg",
-    "figureLabel": "Fig. 1",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 87733
   },
@@ -263,7 +244,6 @@
     "localFile": "assets/reference-thumbnails/ref-20.jpg",
     "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 163505
   },
@@ -275,9 +255,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6488610/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ae3/6488610/b8d3ca9d9fff/41467_2019_9813_Fig1_HTML.jpg",
     "localFile": "assets/reference-thumbnails/ref-21.jpg",
-    "figureLabel": "Fig. 1",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Open-access figure source found through PubMed Central.",
     "contentType": "image/jpeg",
     "bytes": 106113
   },
@@ -290,8 +269,7 @@
     "sourceImage": "",
     "localFile": "",
     "figureLabel": "",
-    "status": "unavailable",
-    "note": "No public figure thumbnail source was found during automated DOI/PMC lookup."
+    "status": "unavailable"
   },
   {
     "index": 23,
@@ -301,9 +279,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7007400/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/075a/7007400/13114218460d/nihms-1546232-f0001.jpg",
     "localFile": "assets/reference-thumbnails/ref-23.jpg",
-    "figureLabel": "Figure 1.",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Open-access figure source found through PubMed Central.",
     "contentType": "image/jpeg",
     "bytes": 529543
   },
@@ -315,9 +292,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7590260/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/71f2/7590260/a1b4b574175e/nihms-1636195-f0001.jpg",
     "localFile": "assets/reference-thumbnails/ref-24.jpg",
-    "figureLabel": "Figure 1.",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 298083
   },
@@ -331,7 +307,6 @@
     "localFile": "assets/reference-thumbnails/ref-25.jpg",
     "figureLabel": "Figure 3",
     "status": "available",
-    "note": "Open-access figure source found through PubMed Central.",
     "contentType": "image/jpeg",
     "bytes": 140112
   },
@@ -345,7 +320,6 @@
     "localFile": "assets/reference-thumbnails/ref-26.jpg",
     "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 68573
   },
@@ -357,9 +331,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7908070/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d7bc/7908070/b29a8bdfae60/nihms-1666847-f0001.jpg",
     "localFile": "assets/reference-thumbnails/ref-27.jpg",
-    "figureLabel": "Fig. 1.",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Open-access figure source found through PubMed Central.",
     "contentType": "image/jpeg",
     "bytes": 153465
   },
@@ -371,9 +344,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8815330/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7dc4/8815330/bb0f27397240/nihms-1764673-f0001.jpg",
     "localFile": "assets/reference-thumbnails/ref-28.jpg",
-    "figureLabel": "Fig. 1",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 195633
   },
@@ -386,8 +358,7 @@
     "sourceImage": "",
     "localFile": "",
     "figureLabel": "",
-    "status": "unavailable",
-    "note": "No public figure thumbnail source was found during automated DOI/PMC lookup."
+    "status": "unavailable"
   },
   {
     "index": 30,
@@ -398,8 +369,7 @@
     "sourceImage": "",
     "localFile": "",
     "figureLabel": "",
-    "status": "unavailable",
-    "note": "No public figure thumbnail source was found during automated DOI/PMC lookup."
+    "status": "unavailable"
   },
   {
     "index": 31,
@@ -409,9 +379,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9048130/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2ca8/9048130/ffa7e2054422/nihms-1788539-f0001.jpg",
     "localFile": "assets/reference-thumbnails/ref-31.jpg",
-    "figureLabel": "Figure 1.",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Public PubMed Central figure source found; reuse/license should be verified for uses beyond this CV thumbnail.",
     "contentType": "image/jpeg",
     "bytes": 273616
   },
@@ -423,9 +392,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9715556/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a79d/9715556/f703baf0d24b/41467_2022_35197_Fig1_HTML.jpg",
     "localFile": "assets/reference-thumbnails/ref-32.jpg",
-    "figureLabel": "Fig. 1",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Open-access figure source found through PubMed Central.",
     "contentType": "image/jpeg",
     "bytes": 206853
   },
@@ -437,9 +405,8 @@
     "sourcePage": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10171859/",
     "sourceImage": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/022e/10171859/b05e3a0aeb5f/elife-73786-fig1.jpg",
     "localFile": "assets/reference-thumbnails/ref-33.jpg",
-    "figureLabel": "Figure 1.",
+    "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Open-access figure source found through PubMed Central.",
     "contentType": "image/jpeg",
     "bytes": 333488
   },
@@ -452,8 +419,7 @@
     "sourceImage": "",
     "localFile": "",
     "figureLabel": "",
-    "status": "unavailable",
-    "note": "No public figure thumbnail source was found during automated DOI/PMC lookup."
+    "status": "unavailable"
   },
   {
     "index": 35,
@@ -465,7 +431,6 @@
     "localFile": "assets/reference-thumbnails/ref-35.jpg",
     "figureLabel": "Figure 1",
     "status": "available",
-    "note": "Open eLife reviewed-preprint figure source found.",
     "contentType": "image/jpeg",
     "bytes": 37391
   },
@@ -478,7 +443,6 @@
     "sourceImage": "",
     "localFile": "",
     "figureLabel": "",
-    "status": "unavailable",
-    "note": "No public figure thumbnail source was found during automated DOI/PMC lookup."
+    "status": "unavailable"
   }
 ]
